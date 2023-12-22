@@ -1,0 +1,48 @@
+/* body{
+    background-image: url("./Tutorials/img/img3.jpg");
+} */
+
+.ph{
+    font-size: 80px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 180px;
+}
+.btn{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: white;
+    background-color: transparent;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0 auto;
+    padding: 23px;
+    border-radius: 50px;
+    border: white solid;
+    text-decoration: none;
+    font-size: 15px;
+    margin-top: 15px;
+}
+a{
+    color: white;
+}
+.links{
+    display: flex;
+    font-size: 30px;
+    align-items: flex-end;
+    justify-content: end;  
+    padding: 10px;
+    margin-right: 10px;  
+    text-decoration: none;
+}
+.ab{
+    margin-right: 10px;
+    text-decoration: none;
+}
+.links:hover{
+    text-decoration: double;
+    color: blue;
+}
